@@ -1,6 +1,9 @@
 # CS2225.CH1501 - Final Project
+# Xác định một người có mang khẩu trang hay không, đồng thời cho biết họ tên người đó từ camera quan sát. 
 
-## **Giới thiệu**
+## **Thành viên nhóm**
+<img src="https://imgur.com/a/4iR46i0">
+## **Giới thiệu về đồ án**
 - Trong đại dịch Covid-19, mọi người được khuyến cáo phải mang khẩu trang nhằm tự bảo vệ mình và ngăn chặn virus lây lan. Tuy nhiên vẫn còn một số người bỏ qua khuyến cáo này.
 - Nhóm đã xây dựng một ứng dụng machine learning nhằm phát hiện những người không mang khẩu trang, lưu lại hình ảnh kèm theo họ tên của họ vào máy tính theo thời gian thực. 
 - Ứng dụng được viết bằng python và một số thư viện như OpenCV, Keras..
