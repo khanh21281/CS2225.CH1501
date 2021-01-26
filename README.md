@@ -3,6 +3,7 @@
 
 ## **Thành viên nhóm**
 <img src="https://i.ibb.co/wYNJBF4/Microsoft-Teams-image.png)">
+
 ## **Giới thiệu về đồ án**
 - Trong đại dịch Covid-19, mọi người được khuyến cáo phải mang khẩu trang nhằm tự bảo vệ mình và ngăn chặn virus lây lan. Tuy nhiên vẫn còn một số người bỏ qua khuyến cáo này.
 - Nhóm đã xây dựng một ứng dụng machine learning nhằm phát hiện những người không mang khẩu trang, lưu lại hình ảnh kèm theo họ tên của họ vào máy tính theo thời gian thực. 
