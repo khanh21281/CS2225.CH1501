@@ -1,3 +1,5 @@
-# CS2225.CH1501
+# CS2225.CH1501 - Final Project
 
-##Giới thiệu
+##**Giới thiệu**
+
+##**Demo**
