@@ -40,13 +40,13 @@
 
 ## Phương pháp
 ### 1. Các thư viện sử dụng
-#### 1.1. Numpy
+#### 1.1 Numpy
 NumPy, viết tắt của Numerical Python, là một thư viện bao gồm các đối tượng mảng đa chiều và một tập hợp các quy trình để xử lý các mảng đó. Sử dụng NumPy, các phép toán toán học và logic trên mảng có thể được thực hiện. 
-#### 1.2. Matplotlib
+#### 1.2 Matplotlib
 Các chức năng vẽ đồ thị cho ngôn ngữ lập trình Python được hỗ trợ bởi Matplotlib. Matplotlib đưa ra một giao diện lập trình ứng dụng hướng đối tượng. Numpy là một trong những mở rộng số toán học của Matplotlib.
-#### 1.3. Keras
+#### 1.3 Keras
 Keras là một thư viện Mạng nơron nguồn mở được viết bằng Python chạy trên Theano hoặc Tensorflow. Nó được thiết kế theo module, nhanh chóng và dễ sử dụng. Nó được phát triển bởi François Chollet, một kỹ sư của Google. 
-#### 1.4. OpenCV
+#### 1.4 OpenCV
 OpenCV viết tắt cho Open Source Computer Vision Library. OpenCV là thư viện nguồn mở hàng đầu cho Computer Vision và Machine Learning, và hiện có thêm tính năng tăng tốc GPU cho các hoạt động theo real-time.
 OpenCV có một cộng đồng người dùng khá hùng hậu hoạt động trên khắp thế giới bởi nhu cầu cần đến nó ngày càng tăng theo xu hướng chạy đua về sử dụng computer vision của các công ty công nghệ.
 Opencv có rất nhiều ứng dụng: Nhận dạng ảnh; Xử lý hình ảnh; Phục hồi hình ảnh/video; Thực tế ảo; Và nhiều ứng dụng khác.
@@ -63,3 +63,8 @@ Do RMFD lượng dữ liệu khá lớn và không đồng đều, nên nhóm ch
   - Tổng số ảnh train without_mask:  2175
   - Tổng số ảnh validation with_mask:  497
   - Tổng số ảnh validation without_mask:  497
+
+#### 2.2 Name Recognition
+Sử dụng ảnh của các thành viên trong nhóm. Thu thập bằng cách:
+  - [Data_gathering](https://github.com/khanh21281/CS2225.CH1501/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20m%C3%B4n%20h%E1%BB%8Dc/Data_Gathering.py): tự lưu ảnh bằng webcam.
+  - [Data_augmentation](https://github.com/khanh21281/CS2225.CH1501/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20m%C3%B4n%20h%E1%BB%8Dc/Data_Augmentation.py): tăng cường dữ liệu cho traning(xoay, thêm nhiễu vào bức ảnh).
