@@ -2,6 +2,10 @@
 # Xác định một người có mang khẩu trang hay không, đồng thời cho biết họ tên người đó từ camera quan sát. 
 
 ## **Thành viên nhóm**
+ - Nguyễn Hồ Khánh - CH1902012
+ - Nguyễn Võ Tấn Đạt - CH1902002
+ - Châu Minh Hòa - CH1902016
+
 <img src="https://i.ibb.co/wYNJBF4/Microsoft-Teams-image.png">
 
 ## **Giới thiệu về đồ án**
