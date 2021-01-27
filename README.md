@@ -57,7 +57,8 @@ Dữ liệu được thu thập từ những nguồn sau:
   - RMFD (Real Mask Face Dataset)
   - Kaggle
   - Data-flair.training
-Do RMFD lượng dữ liệu khá lớn và không đồng đều, nên nhóm chỉ lấy một phần nhỏ. Bộ dữ liệu để train bao gồm:
+  
+Do RMFD lượng dữ liệu khá lớn và không đồng đều, nên nhóm chỉ lấy một phần nhỏ. Bộ dữ liệu([Download here](https://drive.google.com/uc?id=12VrjQW6uhegTlS23L8MkHwXHroKmaCS7)) dùng để train bao gồm:
   - Tổng số ảnh train with_mask:  2173
   - Tổng số ảnh train without_mask:  2175
   - Tổng số ảnh validation with_mask:  497
