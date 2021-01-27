@@ -70,14 +70,15 @@ Sử dụng ảnh của các thành viên trong nhóm. Thu thập bằng cách:
   - [Data_augmentation](https://github.com/khanh21281/CS2225.CH1501/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20m%C3%B4n%20h%E1%BB%8Dc/Data_Augmentation.py): tăng cường dữ liệu cho traning(xoay, thêm nhiễu vào bức ảnh).
 
 ### 3. Training model
-  - [Face_Mask_Detection](https://github.com/khanh21281/CS2225.CH1501/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20m%C3%B4n%20h%E1%BB%8Dc/face_mask_detect_(1).ipynb): Nhóm thực hiện training với 100 epochs. Độ chính xác khá cao, đạt khoảng 97%.
+  - [Face_Mask_Detection](https://github.com/khanh21281/CS2225.CH1501/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20m%C3%B4n%20h%E1%BB%8Dc/face_mask_detect_(1).ipynb): Nhóm thực hiện training với 100 epochs. 
   - [Name_recognition](https://github.com/khanh21281/CS2225.CH1501/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20m%C3%B4n%20h%E1%BB%8Dc/Name_Recognition_Train.ipynb): thực hiện gắn nhãn dữ liệu, training và lưu lại model.
   
 ### 4. Kết quả
-Đối với bài toán Face_Mask_Detection:
+Đối với bài toán Face_Mask_Detection, Độ chính xác khá cao, đạt khoảng 97%.
   - plot accuracy/loss bằng matplotlib:
   <img src="https://i.ibb.co/sWN3kHw/plot.png">
   <img src="https://i.ibb.co/5YnZ00d/plot1.png">
   - Confusion matrix:
   <img src="https://i.ibb.co/KsQwb2r/confusion-matrix.png">
   
+Đối với bài toán Name_recognition, nhóm vẫn chưa tìm được phương pháp đánh giá phù hợp.
