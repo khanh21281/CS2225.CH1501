@@ -40,13 +40,25 @@
 
 ## Phương pháp
 ### 1. Các thư viện sử dụng
-#### a. Numpy
+#### 1.1. Numpy
 NumPy, viết tắt của Numerical Python, là một thư viện bao gồm các đối tượng mảng đa chiều và một tập hợp các quy trình để xử lý các mảng đó. Sử dụng NumPy, các phép toán toán học và logic trên mảng có thể được thực hiện. 
-#### b. Matplotlib
+#### 1.2. Matplotlib
 Các chức năng vẽ đồ thị cho ngôn ngữ lập trình Python được hỗ trợ bởi Matplotlib. Matplotlib đưa ra một giao diện lập trình ứng dụng hướng đối tượng. Numpy là một trong những mở rộng số toán học của Matplotlib.
-#### c. Keras
+#### 1.3. Keras
 Keras là một thư viện Mạng nơron nguồn mở được viết bằng Python chạy trên Theano hoặc Tensorflow. Nó được thiết kế theo module, nhanh chóng và dễ sử dụng. Nó được phát triển bởi François Chollet, một kỹ sư của Google. 
-#### d. OpenCV
+#### 1.4. OpenCV
 OpenCV viết tắt cho Open Source Computer Vision Library. OpenCV là thư viện nguồn mở hàng đầu cho Computer Vision và Machine Learning, và hiện có thêm tính năng tăng tốc GPU cho các hoạt động theo real-time.
 OpenCV có một cộng đồng người dùng khá hùng hậu hoạt động trên khắp thế giới bởi nhu cầu cần đến nó ngày càng tăng theo xu hướng chạy đua về sử dụng computer vision của các công ty công nghệ.
 Opencv có rất nhiều ứng dụng: Nhận dạng ảnh; Xử lý hình ảnh; Phục hồi hình ảnh/video; Thực tế ảo; Và nhiều ứng dụng khác.
+
+### 2. Dữ liệu
+#### 2.1 Face Mask Detection
+Dữ liệu được thu thập từ những nguồn sau:
+  - RMFD (Real Mask Face Dataset)
+  - Kaggle
+  - Data-flair.training
+Do RMFD lượng dữ liệu khá lớn và không đồng đều, nên nhóm chỉ lấy một phần nhỏ. Bộ dữ liệu để train bao gồm:
+  - Tổng số ảnh train with_mask:  2173
+  - Tổng số ảnh train without_mask:  2175
+  - Tổng số ảnh validation with_mask:  497
+  - Tổng số ảnh validation without_mask:  497
