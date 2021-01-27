@@ -2,7 +2,7 @@
 # Xác định một người có mang khẩu trang hay không, đồng thời cho biết họ tên người đó từ camera quan sát. 
 
 ## **Thành viên nhóm**
-<img src="https://i.ibb.co/wYNJBF4/Microsoft-Teams-image.png)">
+<img src="https://i.ibb.co/wYNJBF4/Microsoft-Teams-image.png">
 
 ## **Giới thiệu về đồ án**
 - Trong đại dịch Covid-19, mọi người được khuyến cáo phải mang khẩu trang nhằm tự bảo vệ mình và ngăn chặn virus lây lan. Tuy nhiên vẫn còn một số người bỏ qua khuyến cáo này.
@@ -68,3 +68,16 @@ Do RMFD lượng dữ liệu khá lớn và không đồng đều, nên nhóm ch
 Sử dụng ảnh của các thành viên trong nhóm. Thu thập bằng cách:
   - [Data_gathering](https://github.com/khanh21281/CS2225.CH1501/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20m%C3%B4n%20h%E1%BB%8Dc/Data_Gathering.py): tự lưu ảnh bằng webcam.
   - [Data_augmentation](https://github.com/khanh21281/CS2225.CH1501/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20m%C3%B4n%20h%E1%BB%8Dc/Data_Augmentation.py): tăng cường dữ liệu cho traning(xoay, thêm nhiễu vào bức ảnh).
+
+### 3. Training model
+  - [Face_Mask_Detection](https://github.com/khanh21281/CS2225.CH1501/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20m%C3%B4n%20h%E1%BB%8Dc/face_mask_detect_(1).ipynb): Nhóm thực hiện training với 100 epochs. Độ chính xác khá cao, đạt khoảng 97%.
+  - [Name_recognition](https://github.com/khanh21281/CS2225.CH1501/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20m%C3%B4n%20h%E1%BB%8Dc/Name_Recognition_Train.ipynb): thực hiện gắn nhãn dữ liệu, training và lưu lại model.
+  
+### 4. Kết quả
+Đối với bài toán Face_Mask_Detection:
+  - plot accuracy/loss bằng matplotlib:
+  <img src="https://i.ibb.co/sWN3kHw/plot.png">
+  <img src="https://i.ibb.co/5YnZ00d/plot1.png">
+  - Confusion matrix:
+  <img src="https://i.ibb.co/KsQwb2r/confusion-matrix.png">
+  
