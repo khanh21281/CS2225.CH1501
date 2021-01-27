@@ -12,6 +12,7 @@
 
 ## **Giới thiệu về đồ án**
 Trong đại dịch Covid-19, mọi người được khuyến cáo phải mang khẩu trang nhằm tự bảo vệ mình và ngăn chặn virus lây lan. Tuy nhiên vẫn còn một số người bỏ qua khuyến cáo này.
+
 Nhóm đã xây dựng một ứng dụng machine learning nhằm phát hiện những người không mang khẩu trang, lưu lại hình ảnh kèm theo họ tên của họ vào máy tính theo thời gian thực. 
 Ứng dụng được viết bằng python và một số thư viện như OpenCV, Keras..
 ## **Hình minh họa**
@@ -31,6 +32,7 @@ Nhóm đã xây dựng một ứng dụng machine learning nhằm phát hiện n
 ## **Kiến thức nền tảng**
 ### 1. Convolutional Neural Networks (CNN)
 Convolutional Neural Networks (mạng noron tích chập) chỉ ra rằng mạng sử dụng một phép toán được gọi là tích chập. Convolutional networks là một loại mạng nơron chuyên biệt sử dụng tích chập thay cho phép nhân ma trận chung trong ít nhất một trong các lớp của chúng.
+
 Một mạng CNN bao gồm một lớp đầu vào và một lớp đầu ra, ở giữa gồm nhiều lớp ẩn. Các lớp ẩn của CNN thường bao gồm một loạt các lớp phức hợp có thể thay đổi theo phép nhân hoặc tích số dot khác. Activation Function (hàm kích hoạt) thường là một lớp ReLU, và sau đó được theo sau bởi các phần chập bổ sung như các lớp pooling, fully connected và normalization, được gọi là các lớp ẩn vì các đầu vào và đầu ra của chúng bị che bởi hàm kích hoạt và tích chập cuối cùng. CNN chủ yếu được sử dụng để nhận dạng hình ảnh vì phương pháp này có nhiều lợi thế hơn so với các phương pháp khác.
 
 ### 2. Feature extraction
@@ -38,10 +40,12 @@ CNNs lấy một hình ảnh đầu vào và chuyển đổi nó thành các fea
 
 ### 3. Image processing
 Xử lý ảnh là một trong những phần chính của cấu trúc xử lý tín hiệu, trong đó đầu vào ở dạng hình ảnh; ví dụ, một bức ảnh hoặc video clip. Hiệu suất xử lý hình ảnh cũng có thể là một hình ảnh hoặc nhiều đặc điểm hoặc thông số liên quan đến hình ảnh. Mục tiêu chính của tiền xử lý hình ảnh là nâng cấp thông tin hình ảnh nơi các hình ảnh thừa được lấy ra và các hình ảnh quan trọng được thêm vào để xử lý bổ sung.
+
 Xử lý hình ảnh, hoặc là một cải tiến cho người xem hoặc phần mềm phân tích tự động mang lại lợi thế về tính linh hoạt, tốc độ và chi phí.
 
 ### 4. Face detection
 Face detection là một công nghệ máy tính đang được sử dụng trong nhiều ứng dụng khác nhau để xác định khuôn mặt người trong hình ảnh kỹ thuật số. Face detection cũng đề cập đến quá trình tâm lý mà con người xác định vị trí và quan sát khuôn mặt trong một cảnh trực quan.
+
 Face detection được sử dụng trong sinh trắc học , thường là một phần của (hoặc cùng với) hệ thống nhận dạng khuôn mặt . Nó cũng được sử dụng trong giám sát video, giao diện máy tính con người và quản lý cơ sở dữ liệu hình ảnh.
 
 ## Phương pháp
@@ -54,7 +58,9 @@ Các chức năng vẽ đồ thị cho ngôn ngữ lập trình Python được 
 Keras là một thư viện Mạng nơron nguồn mở được viết bằng Python chạy trên Theano hoặc Tensorflow. Nó được thiết kế theo module, nhanh chóng và dễ sử dụng. Nó được phát triển bởi François Chollet, một kỹ sư của Google. 
 #### 1.4 OpenCV
 OpenCV viết tắt cho Open Source Computer Vision Library. OpenCV là thư viện nguồn mở hàng đầu cho Computer Vision và Machine Learning, và hiện có thêm tính năng tăng tốc GPU cho các hoạt động theo real-time.
+
 OpenCV có một cộng đồng người dùng khá hùng hậu hoạt động trên khắp thế giới bởi nhu cầu cần đến nó ngày càng tăng theo xu hướng chạy đua về sử dụng computer vision của các công ty công nghệ.
+
 Opencv có rất nhiều ứng dụng: Nhận dạng ảnh; Xử lý hình ảnh; Phục hồi hình ảnh/video; Thực tế ảo; Và nhiều ứng dụng khác.
 
 ### 2. Dữ liệu
