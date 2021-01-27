@@ -90,6 +90,7 @@ Sử dụng ảnh của các thành viên trong nhóm. Thu thập bằng cách:
   - plot accuracy/loss bằng matplotlib:
   <img src="https://i.ibb.co/sWN3kHw/plot.png">
   <img src="https://i.ibb.co/5YnZ00d/plot1.png">
+  
   - Confusion matrix:
   <img src="https://i.ibb.co/KsQwb2r/confusion-matrix.png">
   
