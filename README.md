@@ -2,7 +2,7 @@
 # Xác định một người có mang khẩu trang hay không, đồng thời cho biết họ tên người đó từ camera quan sát. 
 
 ## **Thành viên nhóm**
-<img src="https://i.ibb.co/wYNJBF4/Microsoft-Teams-image.png)">
+[Ảnh thành viên nhóm](<img src="https://i.ibb.co/wYNJBF4/Microsoft-Teams-image.png)">)
 
 ## **Giới thiệu về đồ án**
 - Trong đại dịch Covid-19, mọi người được khuyến cáo phải mang khẩu trang nhằm tự bảo vệ mình và ngăn chặn virus lây lan. Tuy nhiên vẫn còn một số người bỏ qua khuyến cáo này.
