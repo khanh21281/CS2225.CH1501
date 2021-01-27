@@ -2,7 +2,7 @@
 # Xác định một người có mang khẩu trang hay không, đồng thời cho biết họ tên người đó từ camera quan sát. 
 
 ## **Thành viên nhóm**
-[Ảnh thành viên nhóm](<img src="https://i.ibb.co/wYNJBF4/Microsoft-Teams-image.png)">)
+<img src="https://i.ibb.co/wYNJBF4/Microsoft-Teams-image.png)">
 
 ## **Giới thiệu về đồ án**
 - Trong đại dịch Covid-19, mọi người được khuyến cáo phải mang khẩu trang nhằm tự bảo vệ mình và ngăn chặn virus lây lan. Tuy nhiên vẫn còn một số người bỏ qua khuyến cáo này.
@@ -38,3 +38,15 @@
 - Face detection là một công nghệ máy tính đang được sử dụng trong nhiều ứng dụng khác nhau để xác định khuôn mặt người trong hình ảnh kỹ thuật số. Face detection cũng đề cập đến quá trình tâm lý mà con người xác định vị trí và quan sát khuôn mặt trong một cảnh trực quan.
 - Face detection được sử dụng trong sinh trắc học , thường là một phần của (hoặc cùng với) hệ thống nhận dạng khuôn mặt . Nó cũng được sử dụng trong giám sát video, giao diện máy tính con người và quản lý cơ sở dữ liệu hình ảnh.
 
+## Phương pháp
+### 1. Các thư viện sử dụng
+#### a. Numpy
+NumPy, viết tắt của Numerical Python, là một thư viện bao gồm các đối tượng mảng đa chiều và một tập hợp các quy trình để xử lý các mảng đó. Sử dụng NumPy, các phép toán toán học và logic trên mảng có thể được thực hiện. 
+#### b. Matplotlib
+Các chức năng vẽ đồ thị cho ngôn ngữ lập trình Python được hỗ trợ bởi Matplotlib. Matplotlib đưa ra một giao diện lập trình ứng dụng hướng đối tượng. Numpy là một trong những mở rộng số toán học của Matplotlib.
+#### c. Keras
+Keras là một thư viện Mạng nơron nguồn mở được viết bằng Python chạy trên Theano hoặc Tensorflow. Nó được thiết kế theo module, nhanh chóng và dễ sử dụng. Nó được phát triển bởi François Chollet, một kỹ sư của Google. 
+#### d. OpenCV
+OpenCV viết tắt cho Open Source Computer Vision Library. OpenCV là thư viện nguồn mở hàng đầu cho Computer Vision và Machine Learning, và hiện có thêm tính năng tăng tốc GPU cho các hoạt động theo real-time.
+OpenCV có một cộng đồng người dùng khá hùng hậu hoạt động trên khắp thế giới bởi nhu cầu cần đến nó ngày càng tăng theo xu hướng chạy đua về sử dụng computer vision của các công ty công nghệ.
+Opencv có rất nhiều ứng dụng: Nhận dạng ảnh; Xử lý hình ảnh; Phục hồi hình ảnh/video; Thực tế ảo; Và nhiều ứng dụng khác.
