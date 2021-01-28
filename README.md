@@ -9,19 +9,19 @@
 <img src="https://i.ibb.co/wYNJBF4/Microsoft-Teams-image.png">
 
 ## **Nội dung**
-###### Giới thiệu về đồ án
-- Hình minh họa
-- Mô tả bài toán
-- Kiến thức nền tảng
-  - Convolutional Neural Networks
-  - Feature extraction
-  - Image processing
-  - Face detection  
-- Phương pháp
-  - Các thư viện sử dụng
-  - Dữ liệu
-  - Training model
-  - Kết quả
+- [Giới thiệu về đồ án](https://github.com/khanh21281/CS2225.CH1501#gi%E1%BB%9Bi-thi%E1%BB%87u-v%E1%BB%81-%C4%91%E1%BB%93-%C3%A1n-1)
+- [Hình minh họa](https://github.com/khanh21281/CS2225.CH1501#h%C3%ACnh-minh-h%E1%BB%8Da)
+- [Mô tả bài toán](https://github.com/khanh21281/CS2225.CH1501#m%C3%B4-t%E1%BA%A3-b%C3%A0i-to%C3%A1n)
+- [Kiến thức nền tảng](https://github.com/khanh21281/CS2225.CH1501#ki%E1%BA%BFn-th%E1%BB%A9c-n%E1%BB%81n-t%E1%BA%A3ng)
+  - [Convolutional Neural Networks](https://github.com/khanh21281/CS2225.CH1501#1-convolutional-neural-networks-cnn)
+  - [Feature extraction](https://github.com/khanh21281/CS2225.CH1501#2-feature-extraction)
+  - [Image processing](https://github.com/khanh21281/CS2225.CH1501#3-image-processing)
+  - [Face detection](https://github.com/khanh21281/CS2225.CH1501#4-face-detection) 
+- [Phương pháp](https://github.com/khanh21281/CS2225.CH1501#ph%C6%B0%C6%A1ng-ph%C3%A1p)
+  - [Các thư viện sử dụng](https://github.com/khanh21281/CS2225.CH1501#1-c%C3%A1c-th%C6%B0-vi%E1%BB%87n-s%E1%BB%AD-d%E1%BB%A5ng)
+  - [Dữ liệu](https://github.com/khanh21281/CS2225.CH1501#2-d%E1%BB%AF-li%E1%BB%87u)
+  - [Training model](https://github.com/khanh21281/CS2225.CH1501#4-k%E1%BA%BFt-qu%E1%BA%A3)
+  - [Kết quả](https://github.com/khanh21281/CS2225.CH1501#4-k%E1%BA%BFt-qu%E1%BA%A3)
 
 ## **Giới thiệu về đồ án**
 Trong đại dịch Covid-19, mọi người được khuyến cáo phải mang khẩu trang nhằm tự bảo vệ mình và ngăn chặn virus lây lan. Tuy nhiên vẫn còn một số người bỏ qua khuyến cáo này.
