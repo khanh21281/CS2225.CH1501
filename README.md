@@ -9,7 +9,7 @@
 <img src="https://i.ibb.co/wYNJBF4/Microsoft-Teams-image.png">
 
 ## **Nội dung**
-- [Giới thiệu về đồ án](https://github.com/khanh21281/CS2225.CH1501#gi%E1%BB%9Bi-thi%E1%BB%87u-v%E1%BB%81-%C4%91%E1%BB%93-%C3%A1n-1)
+- [Giới thiệu về đồ án](https://github.com/khanh21281/CS2225.CH1501#h%C3%ACnh-minh-h%E1%BB%8Da)
 - [Hình minh họa](https://github.com/khanh21281/CS2225.CH1501#h%C3%ACnh-minh-h%E1%BB%8Da)
 - [Mô tả bài toán](https://github.com/khanh21281/CS2225.CH1501#m%C3%B4-t%E1%BA%A3-b%C3%A0i-to%C3%A1n)
 - [Kiến thức nền tảng](https://github.com/khanh21281/CS2225.CH1501#ki%E1%BA%BFn-th%E1%BB%A9c-n%E1%BB%81n-t%E1%BA%A3ng)
