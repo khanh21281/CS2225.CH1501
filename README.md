@@ -9,6 +9,19 @@
 <img src="https://i.ibb.co/wYNJBF4/Microsoft-Teams-image.png">
 
 ## **Nội dung**
+###### Giới thiệu về đồ án
+- Hình minh họa
+- Mô tả bài toán
+- Kiến thức nền tảng
+  - Convolutional Neural Networks
+  - Feature extraction
+  - Image processing
+  - Face detection  
+- Phương pháp
+  - Các thư viện sử dụng
+  - Dữ liệu
+  - Training model
+  - Kết quả
 
 ## **Giới thiệu về đồ án**
 Trong đại dịch Covid-19, mọi người được khuyến cáo phải mang khẩu trang nhằm tự bảo vệ mình và ngăn chặn virus lây lan. Tuy nhiên vẫn còn một số người bỏ qua khuyến cáo này.
