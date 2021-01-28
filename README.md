@@ -75,9 +75,13 @@ OpenCV viết tắt cho Open Source Computer Vision Library. OpenCV là thư vi�
 OpenCV có một cộng đồng người dùng khá hùng hậu hoạt động trên khắp thế giới bởi nhu cầu cần đến nó ngày càng tăng theo xu hướng chạy đua về sử dụng computer vision của các công ty công nghệ.
 
 Opencv có rất nhiều ứng dụng: Nhận dạng ảnh; Xử lý hình ảnh; Phục hồi hình ảnh/video; Thực tế ảo; Và nhiều ứng dụng khác.
-###### Haar Cascade
-Về cơ bản là sử dụng các đặc trưng loại Haar và sau đó sử dụng thật nhiều đặc trưng đó qua nhiều lượt (cascade) để tạo thành một cỗ máy nhận diện hoàn chỉnh.
 
+#### 1.5 Haar Cascade classifier
+Haar Cascade classifier là một cách tiếp cận object detection hiệu quả được đề xuất bởi Paul Viola và Michael Jones, “Rapid Object Detection using a Boosted Cascade of Simple Features” in 2001.
+
+Đây là một hướng tiếp cận cơ bản dựa trên machine learning, một cascade function được train từ rất nhiều hình ảnh bao gồm cả positive và negative. Dựa trên việc training đó, nó được dùng để phát hiện object trong hình ảnh. 
+
+Có rất nhiều file xml chứa feature set để detect eye, fullbody, frontalface... tại [đây](https://github.com/opencv/opencv/tree/master/data/haarcascades) 
 
 ### 2. Dữ liệu
 #### 2.1 Face Mask Detection
