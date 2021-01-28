@@ -29,6 +29,7 @@ Trong đại dịch Covid-19, mọi người được khuyến cáo phải mang 
 Nhóm đã xây dựng một ứng dụng machine learning nhằm phát hiện những người không mang khẩu trang, lưu lại hình ảnh kèm theo họ tên của họ vào máy tính theo thời gian thực. 
 Ứng dụng được viết bằng python và một số thư viện như OpenCV, Keras..
 ## **Hình minh họa**
+<img src="https://i.ibb.co/8jcC9Ln/ezgif-2-a6d8b071186e.gif">
 
 ## **Mô tả bài toán**
 - Task: 
