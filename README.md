@@ -116,3 +116,15 @@ Sử dụng ảnh của các thành viên trong nhóm. Thu thập bằng cách:
   <img src="https://i.ibb.co/KsQwb2r/confusion-matrix.png">
   
 Đối với bài toán Name_recognition, nhóm vẫn chưa tìm được phương pháp đánh giá phù hợp.
+
+## **Tổng kết**
+- Một số công việc cơ bản thực hiện được: 
+  - Face mask detect.
+  - Name recognition.
+  - Kết nối các ip camera để quan sát.
+  - Tự lưu lại hình ảnh những người không mang khảu trang.
+  
+- Một số thiếu sót cần khắc phục:
+  - Không thể detect được những người ở xa và khi họ nhìn về hướng khác.
+  - Ip camera bắt hình còn chậm.
+  - Name recognition độ chính xác rất thấp.
