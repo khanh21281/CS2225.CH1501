@@ -22,6 +22,8 @@
   - [Dữ liệu](https://github.com/khanh21281/CS2225.CH1501#2-d%E1%BB%AF-li%E1%BB%87u)
   - [Training model](https://github.com/khanh21281/CS2225.CH1501#4-k%E1%BA%BFt-qu%E1%BA%A3)
   - [Kết quả](https://github.com/khanh21281/CS2225.CH1501#4-k%E1%BA%BFt-qu%E1%BA%A3)
+  
+-[Tổng kết](https://github.com/khanh21281/CS2225.CH1501/blob/master/README.md#t%E1%BB%95ng-k%E1%BA%BFt)
 
 ## **Giới thiệu về đồ án**
 Trong đại dịch Covid-19, mọi người được khuyến cáo phải mang khẩu trang nhằm tự bảo vệ mình và ngăn chặn virus lây lan. Tuy nhiên vẫn còn một số người bỏ qua khuyến cáo này.
