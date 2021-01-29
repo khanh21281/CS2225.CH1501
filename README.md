@@ -61,7 +61,8 @@ Xử lý hình ảnh, hoặc là một cải tiến cho người xem hoặc ph�
 ### 4. Face detection
 Face detection là một công nghệ máy tính đang được sử dụng trong nhiều ứng dụng khác nhau để xác định khuôn mặt người trong hình ảnh kỹ thuật số. Face detection cũng đề cập đến quá trình tâm lý mà con người xác định vị trí và quan sát khuôn mặt trong một cảnh trực quan.
 
-Face detection được sử dụng trong sinh trắc học , thường là một phần của (hoặc cùng với) hệ thống nhận dạng khuôn mặt . Nó cũng được sử dụng trong giám sát video, giao diện máy tính con người và quản lý cơ sở dữ liệu hình ảnh.
+Face detection được sử dụng trong sinh trắc học , thường là một phần của (hoặc cùng với) hệ thống nhận dạng khuôn mặt . Nó cũng được sử dụng trong giám sát video, giao diện máy tính con người và quản lý cơ sở dữ liệu hình ảnh. [wikipedia](https://en.wikipedia.org/wiki/Face_detection)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Face_detection.jpg/220px-Face_detection.jpg">
 
 ## Phương pháp
 ### 1. Các thư viện sử dụng
