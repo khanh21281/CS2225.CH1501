@@ -16,6 +16,7 @@
   - [Convolutional Neural Networks](https://github.com/khanh21281/CS2225.CH1501#1-convolutional-neural-networks-cnn)
   - [Feature extraction](https://github.com/khanh21281/CS2225.CH1501#2-feature-extraction)
   - [Image processing](https://github.com/khanh21281/CS2225.CH1501#3-image-processing)
+  - [Classification with localization]()
   - [Face detection](https://github.com/khanh21281/CS2225.CH1501#4-face-detection) 
 - [Phương pháp](https://github.com/khanh21281/CS2225.CH1501#ph%C6%B0%C6%A1ng-ph%C3%A1p)
   - [Các thư viện sử dụng](https://github.com/khanh21281/CS2225.CH1501#1-c%C3%A1c-th%C6%B0-vi%E1%BB%87n-s%E1%BB%AD-d%E1%BB%A5ng)
@@ -58,7 +59,12 @@ Xử lý ảnh là một trong những phần chính của cấu trúc xử lý 
 
 Xử lý hình ảnh, hoặc là một cải tiến cho người xem hoặc phần mềm phân tích tự động mang lại lợi thế về tính linh hoạt, tốc độ và chi phí.
 
-### 4. Face detection
+### 4. Classification with localization
+Trong bài toán Object detection thông thường, ta có thể phát hiện nhiều đối tượng trong một hình ảnh duy nhất. Mặt khác, Classification with localization bị giới hạn trong việc chỉ phát hiện một đối tượng trên mỗi ảnh.
+
+<img src="https://i.ibb.co/YBF69gW/detection-plus-classification-1024x439.jpg">
+
+### 5. Face detection
 Face detection là một công nghệ máy tính đang được sử dụng trong nhiều ứng dụng khác nhau để xác định khuôn mặt người trong hình ảnh kỹ thuật số. Face detection cũng đề cập đến quá trình tâm lý mà con người xác định vị trí và quan sát khuôn mặt trong một cảnh trực quan.
 
 Face detection được sử dụng trong sinh trắc học , thường là một phần của (hoặc cùng với) hệ thống nhận dạng khuôn mặt . Nó cũng được sử dụng trong giám sát video, giao diện máy tính con người và quản lý cơ sở dữ liệu hình ảnh. [wikipedia](https://en.wikipedia.org/wiki/Face_detection)
