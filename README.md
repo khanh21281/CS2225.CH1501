@@ -131,7 +131,7 @@ Sử dụng ảnh của các thành viên trong nhóm. Thu thập bằng cách:
   - Face mask detect.
   - Name recognition.
   - Kết nối các ip camera để quan sát.
-  - Tự lưu lại hình ảnh những người không mang khảu trang.
+  - Tự lưu lại hình ảnh những người không mang khẩu trang.
   
 - Một số thiếu sót cần khắc phục:
   - Không thể detect được những người ở xa và khi họ nhìn về hướng khác.
